@@ -24,7 +24,8 @@ public class Beverage {
         // Crear un objeto de tipo Beverage
         Beverage bebida1 = new Beverage("Jugo de naranja", "Mediano", 4500);
 
-        // Mostrar su información
+    
         bebida1.showInfo();
     }
 }
+
